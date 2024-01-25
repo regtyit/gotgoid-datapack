@@ -1,0 +1,1 @@
+execute positioned as @e[name="di"] run fill ~25 111 ~25 ~-25 111 ~-25 acacia_log replace iron_block

@@ -4,6 +4,8 @@ const var:
 
 name of entity = "di"  (di in game)
 
+entity type = "minecraft:husk"
+
 height of arena platform = 111
 
 arena box is made of = acacia_logs
